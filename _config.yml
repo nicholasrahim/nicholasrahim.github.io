@@ -29,12 +29,6 @@ author:
   employer         : "Harvard University"
   uri              : # URL
   contact          : "nrahim@g.harvard.edu" 
-  {% if site.author.email %}
-  <li>
-    <i class="fas fa-envelope"></i>
-    <a href="mailto:{{ nrahim@g.harvard.edu }}">{{ nrahim@g.harvard.edu }}</a>
-  </li>
-{% endif %}
 
     
   # Academic websites
