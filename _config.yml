@@ -26,10 +26,12 @@ author:
   avatar           : "profile.png"
   name             : "Nicholas Errol Rahim"
   bio              : "Ph.D. Candidate in the Department of Global Health and Population"
-  employer         : "Harvard T.H. Chan School of Public Health"
+  employer         : "Harvard University"
   uri              : # URL
-  email            : "nrahim@g.harvard.edu" 
-
+  contact            : 
+    email_text: "nrahim@g.harvard.edu" 
+    email_link: "mailto:nrahim@g.harvard.edu"
+    
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
