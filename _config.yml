@@ -23,7 +23,7 @@ repository               : "nicholasrahim/nicholasrahim.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   name             : "Nicholas (Nicky) Rahim"
   bio              : "Ph.D. Candidate in the Department of Global Health and Population"
   employer         : "Harvard University"
