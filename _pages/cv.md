@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Find CV here!]([https://www.example.com](https://nicholasrahim.github.io/files/CV__Nicholas_Rahim.2026.08.14.pdf))
+[Find CV here!](https://nicholasrahim.github.io/files/CV__Nicholas_Rahim.2026.08.14.pdf)
