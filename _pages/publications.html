@@ -5,32 +5,43 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
+<ol>
+  <li>
+    <strong>Perceptions of health, body size, and nutritional risk factors for obesity in people with HIV in South Africa</strong>
+    <br>
+    <small>Manne-Goehler, J., <strong>Rahim, N.</strong>, Van Empel, E., De Vlieg, R., Chamberlain, G., Castle, A., Mabweazara, S., Siedner, M. <em>AIDS and Behavior, 2024</em></small>
+  </li>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  <li>
+    <strong>Care seeking during pregnancy: testing the assumptions behind service delivery redesign for maternal and newborn health in rural Kenya</strong>
+    <br>
+    <small>Croke, K., Kapaon, D., Opondo, K., Cooper, J., Nzinga, J., Olwanda, E., <strong>Rahim, N.</strong>, Kruk, M. <em>Health Policy and Planning, 2024</em></small>
+  </li>
 
+  <li>
+    <strong>Blood pressure increases are associated with weight gain and not antiretroviral regimen or kidney function: a secondary analysis from the ADVANCE trial in South Africa</strong>
+    <br>
+    <small>Manne-Goehler, J., Fabian, J., Sokhela, S., Akpomiemie, G., Nzinga, J., <strong>Rahim, N.</strong>, Lalla-Edward, S., Brennan, A., Siedner, M., Hill, A., Venter, WDF. <em>Journal of the International AIDS Society, 2024</em></small>
+  </li>
+
+  <li>
+    <strong>Multiple cardiovascular risk factor care in 55 low- and middle-income countries: A cross-sectional analysis of nationally-representative, individual-level data from 280,783 adults</strong>
+    <br>
+    <small>Diallo, A., Marcus, M., Flood, D., Theilmann, M., <strong>Rahim, N.</strong>, Kinlaw, A., Franceshini, N., Sturmer, T., Tien, D., ... Geldsetzer, P., Atun, R., Vollmer, S., Bärnighausen, T., Davies, J., Ali M., Seiglie, J., Gower, E., Manne-Goehler, J. <em>PLOS Global Public Health, 2024</em></small>
+  </li>
+
+  <li>
+    <strong>Diabetes prevention in 44 low- and middle-income countries: a cross-sectional analysis of nationally representative, individual-level data in 145,739 adults</strong>
+    <br>
+    <small><strong>Rahim, N.</strong>, Flood, D., Marcus, M., Theilmann, M., Aung, T., ... Geldsetzer, P., Atun, R., Vollmer, S., Bärnighausen, T., Davies, J., Ali M., Seiglie, J., Manne-Goehler, J. <em>The Lancet Global Health, 2023</em></small>
+  </li>
+
+  <li>
+    <strong>The interaction between antenatal care and abnormal temperature during delivery and its relationship with postpartum care: a prospective study of 1,546 women in semi-rural Uganda</strong>
+    <br>
+    <small><strong>Rahim, N.</strong>, Ngonzi, J., Boatin, A., Bassett, I., Siedner, M., Mugyenyi, G., Bebell, L. <em>BMC Pregnancy Childbirth, 2022</em></small>
+  </li>
+</ol>
 
 
