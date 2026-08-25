@@ -12,3 +12,5 @@ I am a Ph.D. Candidate in the Population Health Sciences program (Health Systems
 I am a member of the American Society of Health Economists and affiliated with the Institute for Quantitative Social Sciences at Harvard, Harvard Center for Population and Development Studies, and the Harvard Center for International Development.
 
 I received my B.A. in Economics and History, along with a minor in Africana Studies, from Cornell University in 2020. I then worked as a research assistant at the Medical Practice Evaluation Center (MPEC) at Massachusetts General Hospital working on studies related to maternal and child health; metabolic health; and pulmonology.
+
+Email: nrahim@g.harvard.edu
