@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in the Population Health Sciences program (Health Systems track) at the Harvard T.H. Chan School of Public Health. I am an applied development economist studying the determinants and consequences of behaviors related to gendered labor; maternal and child health; and fertility in low- and middle-income settings. **I am currently on the 2026-2027 job market.**
+I am a Ph.D. Candidate in the Population Health Sciences program (Health Systems track) at the Harvard T.H. Chan School of Public Health. I work at the intersection of development economics, demography, and epidemiology to explore questions related to the determinants and consequences of behaviors around female labor; maternal and child health; and fertility in low- and middle-income settings. **I am currently on the 2026-2027 job market.**
 
 I am a member of the American Society of Health Economists and affiliated with the Institute for Quantitative Social Sciences at Harvard, Harvard Center for Population and Development Studies, and the Harvard Center for International Development.
 
